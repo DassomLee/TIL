@@ -1,8 +1,9 @@
 doggy
-  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/235249206/?autostart=false" frameborder="0" allowfullscreen></iframe>
+--> https://scratch.mit.edu/projects/235249206/
 
 divers
-      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/235251725/?autostart=false" frameborder="0" allowfullscreen></iframe>
+--> https://scratch.mit.edu/projects/235251725/
+
 universe
-      <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/235196454/?autostart=false" frameborder="0" allowfullscreen></iframe>
+--> https://scratch.mit.edu/projects/235252795/
     
